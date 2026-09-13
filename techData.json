@@ -1,0 +1,143 @@
+
+[
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "https://icepanel.io",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine for backend services.",
+    "icon": "https://icepanel.io",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "icon": "https://icepanel.io",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
+  },
+  {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework packed with classes for rapid UI development.",
+    "icon": "https://icepanel.io",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A platform designed to help developers create, deploy, and run applications using containers.",
+    "icon": "https://icepanel.io",
+    "rating": 4.6,
+    "difficulty": "Advanced",
+    "badge": "Containers"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed programming language that builds on JavaScript, giving you better tooling.",
+    "icon": "https://icepanel.io",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Trending"
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A document-based distributed database designed for modern application developers.",
+    "icon": "https://icepanel.io",
+    "rating": 4.5,
+    "difficulty": "Beginner-Friendly",
+    "badge": "NoSQL"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "category": "Tools",
+    "description": "A free and open source distributed version control system designed to handle projects.",
+    "icon": "https://icepanel.io",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "The React framework for the web, enabling server-side rendering and static web applications.",
+    "icon": "https://icepanel.io",
+    "rating": 4.8,
+    "difficulty": "Advanced",
+    "badge": "Powerful"
+  },
+  {
+    "id": "express",
+    "name": "Express",
+    "category": "Backend",
+    "description": "Minimal and flexible Node.js web application framework providing a robust set of features.",
+    "icon": "https://icepanel.io",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Standard"
+  },
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "category": "Backend",
+    "description": "A query language for APIs and a runtime for fulfilling those queries with your existing data.",
+    "icon": "https://icepanel.io",
+    "rating": 4.7,
+    "difficulty": "Advanced",
+    "badge": "Modern API"
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "category": "Database",
+    "description": "An open source, in-memory data structure store used as a database, cache, and message broker.",
+    "icon": "https://icepanel.io",
+    "rating": 4.8,
+    "difficulty": "Advanced",
+    "badge": "In-Memory"
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "category": "Language",
+    "description": "An interpreted, high-level, general-purpose programming language known for data science.",
+    "icon": "https://icepanel.io",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
+  },
+  {
+    "id": "firebase",
+    "name": "Firebase",
+    "category": "Tools",
+    "description": "A platform developed by Google for creating mobile and web applications with real-time sync.",
+    "icon": "https://icepanel.io",
+    "rating": 4.6,
+    "difficulty": "Beginner-Friendly",
+    "badge": "BaaS"
+  }
+]
